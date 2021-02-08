@@ -4,3 +4,6 @@ requirements.txt
 .vscode/settings.json
 python_증권데이터/__pycache__/pandas.cpython-39.pyc
 python_혼공파/desktop.ini
+python_이것이데이터분석이다/.vscode/settings.json
+python_이것이데이터분석이다/예제소스/python-data-analysis-master/chapter2/01-namu-wiki-text-analysis.ipynb
+python_이것이데이터분석이다/예제소스/python-data-analysis-master/chapter3/01-baseball-salary-prediction.ipynb
